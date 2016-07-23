@@ -1,0 +1,145 @@
+body {
+  font-family: "Helvetica Neue";
+  background: url(http://i4.piimg.com/4851/eaf910dc3e4627af.png)repeat 0 0;
+  
+}
+
+#homeback {
+  background: url(http://i4.piimg.com/4851/183255843a053b12.jpg) no-repeat center top;
+  margin-top: 50px;
+  padding-top: 250px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 100%;
+  width: 100%;
+  background-size: 100%;
+  background-size: cover;
+  
+}
+
+h1 {
+  font-size: 80px;
+  text-shadow: 1px 1px 1px #888;
+  color:#ffffff
+}
+h3 {
+  font-size: 30px;
+  text-shadow: 1px 1px 1px #000;
+  color:#ffffff
+}
+#aboutback {
+  background: url(http://i4.piimg.com/4851/ec62f0325880b88d.jpg) no-repeat center top;
+  margin-top: 0px;
+  padding-top: 250px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 100%;
+  width: 100%;
+  background-size: 100%;
+  background-size: cover;
+  
+}
+
+h1 {
+  font-size: 80px;
+  text-shadow: 2px 2px 2px #000;
+}
+h2 {
+  font-size: 50px;
+  color:#fff;
+  text-shadow: 2px 2px 2px #000;
+}
+
+
+#porpfolioback{
+  background: url(http://i4.piimg.com/4851/ae6d43d65c19bed7.jpg) no-repeat center top;
+  margin-top: 0px;
+  padding-top: 250px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 100%;
+  width: 100%;
+  background-size: 100%;
+  background-size: cover;
+  
+}
+#contactback{
+  background: url(http://i4.piimg.com/4851/f9e3aa585155630d.jpg) no-repeat center top;
+  margin-top: 0px;
+  padding-top: 250px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 100%;
+  width: 100%;
+  background-size: 100%;
+  background-size: cover;
+  
+}
+footer{
+  margin-top:20px;
+}
+.welcome{
+  margin-top:-110px;
+}
+.about-title{
+  margin-top:-200px;
+}
+.mine-photo{
+  width:150px;
+  height:150px;
+  margin-top:-150px;
+  margin-bottom:200px;
+  border:6px solid #8f8f8f;
+    
+  
+  
+ 
+  
+}
+.lead{
+  text-align:left;
+  color:white;
+   
+  text-shadow: 1px 1px 1px #080808;
+  margin-top:-20px;
+  margin-bottom:40px;
+  font-size:19px;
+}
+.link{
+  
+}
+.por-title{
+  margin-top:-200px;
+}
+.img-thumbnail{
+  background-color:#8f8f6f;
+  border:#8f8f6f;
+}
+h5,h6{
+  color:white;
+}
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+}
+a:active {
+text-decoration: none;
+}
+.iterm{
+  margin-top:10px;
+}
+.all-item{
+  margin-top:-20px;
+}
+.portfolio-item{
+  margin-bottom:20px;
+}
